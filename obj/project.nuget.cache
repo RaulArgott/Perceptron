@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/i1nF+PgFV8Tumw/Y0Kp43HPSbiLAezY9UZtFq9/j1iNcxtX88TDv3mHEpnjhmbtgvOrENQeE3UtPfetq307CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raula\\Documents\\Perceptron\\Perceptron.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raula\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

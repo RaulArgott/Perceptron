@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Perceptron.fs" />
+    <Compile Include="Datos.fs" />
+    <Compile Include="Funciones_Activacion.fs" />
+    <Compile Include="Funciones_Aprendizaje.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
